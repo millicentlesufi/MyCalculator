@@ -2,7 +2,7 @@
 .btnsContainer{
     display: block;
     background-color: grey;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.8);
     border-radius: 8px;
     width: 450px;
     height: 450px;
@@ -66,14 +66,9 @@
 }
 .outerCalculator{
     background-color: #2e2e2e;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
     height: 570px;
     width: 570px;
-    color: #ffffff;
     padding-top: 50px;
-    font-style: inherit;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border-radius: 8px;
 }
 .brandContainer{
    font-size: 1em;
@@ -84,9 +79,6 @@
    color: #ffffff;
    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.4);
    background-color: grey;
-   color: white;
-   font-style: inherit;
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
    border-radius: 8px;
 }
 .screenContainer{
