@@ -38,12 +38,28 @@
 #deleteBtn:hover{
     background-color: lightcoral;
 }
-#trig{
+#sin{
     background-color: green;
     color: white;
     font-weight: bold;
 }
-#trig:hover{
+#cos{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+#tan{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+#sin:hover{
+    background-color: lightgreen;
+}
+#cos:hover{
+    background-color: lightgreen;
+}
+#tan:hover{
     background-color: lightgreen;
 }
 .outerCalculator{
@@ -85,4 +101,8 @@
     font-weight: lighter;
     color: white;
 
+}
+
+h4{
+   font-size: 30px
 }
