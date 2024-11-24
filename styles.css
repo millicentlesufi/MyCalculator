@@ -1,0 +1,88 @@
+
+.btnsContainer{
+    display: block;
+    background-color: gainsboro;
+    width: 450px;
+    height: 450px;
+    padding: 60px;
+}
+
+.button{
+    width: 97px;
+    height: 50px;
+    border-radius: 7px;
+    /*space in between buttons*/
+    margin: 5px;
+    background-color: hsl(188, 100%, 76%);
+    font-size: 30px;
+
+}
+
+.button:hover{
+    background-color: hsl(248, 100%, 30%);
+}
+/*Making clear button yellow*/
+#clearBtn{
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+#clearBtn:hover{
+    background-color: lightyellow;
+}
+#deleteBtn{
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+#deleteBtn:hover{
+    background-color: lightcoral;
+}
+#trig{
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+#trig:hover{
+    background-color: lightgreen;
+}
+.outerCalculator{
+    background-color: gray;
+    height: 570px;
+    width: 570px;
+    padding-top: 50px;
+}
+.brandContainer{
+   font-size: 1em;
+   font-weight: bold;
+   margin-top:-90px;
+   width: 570px;
+   height: 100px;
+   background-color: grey;
+   color: white;
+   font-style: inherit;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.screenContainer{
+    height: 105px;
+    width: 550px;
+    margin-top: -60px;
+    background-color: azure;
+    border: 10px solid black;
+}
+
+#motto{
+    text-align: center;
+    margin-left: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    color: white;
+}
+
+#edition{
+    margin-left: 200px;
+    font-style: italic;
+    font-weight: lighter;
+    color: white;
+
+}
